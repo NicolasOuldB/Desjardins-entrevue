@@ -1,5 +1,7 @@
 # Test Analyste-Programmeur (Java Spring Boot)
 
+## Le schéma de base donnée est dans resources/sql
+
 ## Objectif du test
 
 Votre objectif pour ce test est de créer un API Rest avec Java et Spring Boot
