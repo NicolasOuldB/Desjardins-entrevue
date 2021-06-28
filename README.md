@@ -1,6 +1,8 @@
 # Test Analyste-Programmeur (Java Spring Boot)
 
-## Le schéma de base donnée est dans resources/sql
+## Schéma de base de données
+
+Le schéma de base donnée est dans resources/sql
 
 ## Objectif du test
 
